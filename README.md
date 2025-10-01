@@ -14,9 +14,3 @@ This project was created by **Team Pantastic** to showcase our team members and 
 - CSS
 - JavaScript
 
-## 👥 Team Pantastic
-- Mihir
-- Payal
-- Nikkiii
-- Kush
-- Kabir
